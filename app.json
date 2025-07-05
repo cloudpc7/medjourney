@@ -13,17 +13,40 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.clouddropdesigns.medjourney",
+      "buildNumber": "1.0.0",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.clouddropdesigns.medjourney",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "webClientId": "460691133859-7otjr08bk5n8voi24ldsaf898sk47uc4.apps.googleusercontent.com",
+          "iosUrlScheme": "com.googleusercontent.apps.460691133859-1ncbrr8ccvdi8o16ente7d7u6rj9tcvj"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1964c9a2-a3da-47ef-838e-48fa2e556a77"
+      }
     }
   }
 }

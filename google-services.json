@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460691133859",
+    "project_id": "medjourney-464903",
+    "storage_bucket": "medjourney-464903.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460691133859:android:bc43838e3bcd1a2c873616",
+        "android_client_info": {
+          "package_name": "com.clouddropdesigns.medjourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460691133859-7otjr08bk5n8voi24ldsaf898sk47uc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clouddropdesigns.medjourney",
+            "certificate_hash": "949ce2f6c2221dfef3b332c7e87ce23271d753a2"
+          }
+        },
+        {
+          "client_id": "460691133859-7gc2q3dn3gnvrorrmghqcb0o90cm7qun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuMcNn3beG0ifbNJUTchYmNh840YpHZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460691133859-7gc2q3dn3gnvrorrmghqcb0o90cm7qun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

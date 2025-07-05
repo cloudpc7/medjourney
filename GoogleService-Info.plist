@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>460691133859-1ncbrr8ccvdi8o16ente7d7u6rj9tcvj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.460691133859-1ncbrr8ccvdi8o16ente7d7u6rj9tcvj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>460691133859-7otjr08bk5n8voi24ldsaf898sk47uc4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADc0Ay6TyT6gYdJEG5NxrjyADEPitGuoI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>460691133859</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clouddropdesigns.medjourney</string>
+	<key>PROJECT_ID</key>
+	<string>medjourney-464903</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medjourney-464903.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:460691133859:ios:6a55a43c5cb288ec873616</string>
+</dict>
+</plist>
